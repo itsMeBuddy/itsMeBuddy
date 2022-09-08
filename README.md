@@ -9,3 +9,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsMeBuddy&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000)](https://git.io/streak-stats)
+
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
