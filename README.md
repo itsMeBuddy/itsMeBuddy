@@ -1,4 +1,4 @@
-## About Me <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/tesseract.gif" width="60px" height="60px" />
+## Hi, Who am I
 
 - 👋 Hi, I’m @itsMeBuddy
 
