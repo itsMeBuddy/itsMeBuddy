@@ -1,4 +1,4 @@
-## Hi, Who am I
+## Hi, who am I?
 
 - 👋 Hi, I’m @itsMeBuddy
 
