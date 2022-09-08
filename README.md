@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @itsMeBuddy
 - 👀 I’m interested in <sup>14</sup>Si
-- 🌱 I’m currently learning Computer Science Engineering from KLE Technological University, Hubli
-<!-- - 💞️ I’m looking to collaborate on  -->
+- 🌱 I’m currently learning Computer Science Engineering from KLE Technological University, Hubli<!-- - 💞️ I’m looking to collaborate on  -->
 - 📫 How to reach me ...
 
 <!---
