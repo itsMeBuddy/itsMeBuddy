@@ -1,4 +1,6 @@
-# Hello, folks! <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/giphy.gif"/>
+<a href="#"><img width="100%" height="auto" src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/giphy.gif" height="100px"/></a>
+
+# Hello, folks! <img src=""/>
 
 - 👋 Hi, I’m @itsMeBuddy
 
