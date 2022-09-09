@@ -26,7 +26,11 @@
 
 ## Views and Followers
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsMeBuddy&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsMeBuddy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsMeBuddy&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000)](https://git.io/streak-stats) 
+</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsMeBuddy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsMeBuddy&show_icons=true&theme=radical)
 
