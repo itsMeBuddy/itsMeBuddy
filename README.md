@@ -1,4 +1,4 @@
-<h1 align="center"> Hey,(https://github.com/itsMeBuddy/itsMeBuddy/blob/main/wave.gif) What's Up? </h1>
+<h1 align="center"> Hey,<img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/wave.gif" width="30px" height="30px" /> What's Up? </h1>
 
 - 👋 Hi, I’m Mayank Ranjan... the Internet Explorer, not the deprecated one
 
