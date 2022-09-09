@@ -1,6 +1,6 @@
 <p align="center">
     <a href="">
-        <img title="" alt="" src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/cool_data_3.gif"/>
+        <img title="" alt="" src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/few.gif"/>
     </a>
 </p>
 
@@ -71,6 +71,5 @@
 <a href="https://github.com/itsMeBuddy/">
     <img src="https://komarev.com/ghpvc/?username=itsMeBuddy">
 </a>
-
 
 <iframe src="https://gifer.com/embed/2yqT" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
