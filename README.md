@@ -20,7 +20,7 @@
 
 ## Languages and Tools
 
-<a href="https://www.cplusplus.com" target="_blank"> <img src="https://img.icons8.com/c-plus-plus-logo.png"/> </a>
+<a href="" target=""> <img src="https://img.icons8.com/50/000000/c-plus-plus-logo.png"/> </a>
 
 <!-- <p align="left">
     <a href="https://www.cplusplus.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
