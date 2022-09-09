@@ -18,12 +18,10 @@
 
 ♂ he/him
 
-## Languages and Tools
+## Languages, Technologies & Tools
 
 <p align="left">
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-    
-    width="48" height="48"/> </a>
+    <a href=""><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
 </p>
 
 ## Views and Followers
