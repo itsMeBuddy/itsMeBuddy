@@ -1,4 +1,4 @@
-<h1 align="center"> Hey, What's Up? </h1>
+<h1 align="center"> Hey,(https://github.com/itsMeBuddy/itsMeBuddy/blob/main/wave.gif) What's Up? </h1>
 
 - 👋 Hi, I’m Mayank Ranjan... the Internet Explorer, not the deprecated one
 
@@ -19,4 +19,3 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsMeBuddy&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000)](https://git.io/streak-stats)
-
