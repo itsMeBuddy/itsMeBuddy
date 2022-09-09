@@ -20,7 +20,7 @@
 
 ## Languages and Tools
 
-<a href="https://www.cplusplus.com" target="_blank"> <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/telegram-app-shake.gif"/> </a>
+<a href="https://www.cplusplus.com" target="_blank"> <img src=""/> </a>
 
 <!-- <p align="left">
     <a href="https://www.cplusplus.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
@@ -53,3 +53,9 @@
 <a href="https://github.com/itsMeBuddy/">
     <img src="https://komarev.com/ghpvc/?username=itsMeBuddy">
 </a>
+
+## Stargazers
+
+### <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers
+
+[![Stargazers repo roster for @waylonwalker/waylonwalker](https://reporoster.com/stars/waylonwalker/waylonwalker)](https://github.com/waylonwalker/waylonwalker/stargazers)
