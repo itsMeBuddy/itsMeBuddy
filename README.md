@@ -1,13 +1,12 @@
 <h1 align="center"> Hey <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/wave.gif" width="30px" height="30px" />, What's Up? </h1>
-<a>
+
 # <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/Gif_.gif" width="40px" height="40px" /> Me ?
-</a>
 
 - 👋 Hi, I’m Mayank Ranjan... the Internet Explorer, not the deprecated one
 
 - 📈 I’m interested in <sup>14</sup>Si
 
-- 📚 I’m currently **learning**.<!-- - 💞️ I’m looking to collaborate on  -->
+- 📚 I’m currently **learning**.
 
 - 🥱 ...and pursuing degree on **B.E.** in **Computer Science & Engineering** from _KLE Technological University_, KA '23
 
