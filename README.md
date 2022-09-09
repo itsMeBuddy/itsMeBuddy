@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="">
+        <img title="" alt="" src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/6tXM.gif"/>
+    </a>
+</p>
+
 <h1 align="center"> Hey <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/Handshake.gif" width=auto height="25px" />, What's Up? </h1>
 
 # <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/Gif_.gif" width="30px" height=auto /> Me ?
@@ -47,15 +53,15 @@ Hi, I’m Mayank Ranjan... the Internet Explorer, not the deprecated one
     </a>
 </p>
 <br />
-<p align="right">
+<!-- <p align="left">
     <a href="">
         <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsMeBuddy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
-</p>
+</p> -->
 
 <p align="center">
     <a href="">
-        <img title="" alt="" src="https://activity-graph.herokuapp.com/graph?username=itsMeBuddy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)]"/>
+        <img title="" alt="" src="https://activity-graph.herokuapp.com/graph?username=itsMeBuddy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
     </a>
 </p>
 
