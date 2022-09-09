@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact ...**I do certify myself.**
 
-he/him
+♂ he/him
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsMeBuddy&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000)](https://git.io/streak-stats)
 
@@ -24,8 +24,8 @@ he/him
 
 ## Views and Followers
 
+[![Mayank's github activity graph](https://activity-graph.herokuapp.com/graph?username=itsMeBuddy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/itsMeBuddy/)
+
 <a href="https://github.com/itsMeBuddy/">
     <img src="https://komarev.com/ghpvc/?username=itsMeBuddy">
 </a>
-
-[![Mayank's github activity graph](https://activity-graph.herokuapp.com/graph?username=itsMeBuddy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/itsMeBuddy/)
