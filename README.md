@@ -41,6 +41,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
+<p align="center">
+    <a href="">
+        <img title="🔥" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=itsMeBuddy&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
 ## Stargazers
 
 [![Stargazers repo roster for @waylonwalker/waylonwalker](https://reporoster.com/stars/itsMeBuddy/itsMeBuddy)](https://github.com/itsMeBuddy/itsMeBuddy)
