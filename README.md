@@ -20,6 +20,8 @@
 
 ## Languages and Tools
 
+<a href="https://www.cplusplus.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+
 <!-- <p align="left">
     <a href="https://www.cplusplus.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
