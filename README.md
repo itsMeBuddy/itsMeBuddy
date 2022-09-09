@@ -1,6 +1,6 @@
 <h1 align="center"> Hey <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/wave.gif" width="30px" height="30px" />, What's Up? </h1>
 
-# <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/Gif_.gif"> Me
+# <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/Gif_.gif" width="30px" height="30px" > Me
 
 - 👋 Hi, I’m Mayank Ranjan... the Internet Explorer, not the deprecated one
 
