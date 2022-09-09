@@ -10,7 +10,7 @@
 
 - 🥱 ...and pursuing degree on **B.E.** in **Computer Science & Engineering** from _KLE Technological University_, KA '23
 
-- 😕 ...and searching for **just one relationship**
+- 😕 ...and searching for **just '1' relationship**
 
 - 📮 How to reach me😂? -> **red.mayank.r@gmail.com**
 
@@ -27,3 +27,5 @@ he/him
 <a href="https://github.com/itsMeBuddy/">
     <img src="https://komarev.com/ghpvc/?username=itsMeBuddy">
 </a>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
