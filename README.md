@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Mayank Ranjan... the Internet Explorer, not the deprecated one
 
-- 📈 I’m interested in <sup>14</sup>Si
+- 📈 I’m interested in <sup><small>14</small></sup>Si
 
 - 📚 I’m currently **learning**.
 
