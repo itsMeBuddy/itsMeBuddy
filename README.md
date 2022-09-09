@@ -43,7 +43,7 @@
 
 <p align="center">
     <a href="">
-        <img title="🔥" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=itsMeBuddy&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥" alt="" src="https://streak-stats.demolab.com?user=itsMeBuddy&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
     </a>
 </p>
 
