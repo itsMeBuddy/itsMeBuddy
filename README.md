@@ -8,9 +8,9 @@
 
 - 📚 I’m currently **learning**.<!-- - 💞️ I’m looking to collaborate on  -->
 
-- 🥱 ...and pursuing degree on **BE in Computer Science & Engineering** from KLE Technological University, KA '23
+- 🥱 ...and pursuing degree on **B.E.** in **Computer Science & Engineering** from _KLE Technological University_, KA '23
 
-- 😕 ...and searching for just one relationship
+- 😕 ...and searching for **just one relationship**
 
 - 📮 How to reach me😂? -> **red.mayank.r@gmail.com**
 
