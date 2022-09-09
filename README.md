@@ -1,15 +1,18 @@
-<a href="#"><img width="100%" height="auto" src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/giphy.gif" height="100px"/></a>
+<h1 align="center"> Hey, What's Up? </h1>
 
-# Hello, folks! <img src=""/>
+- 👋 Hi, I’m Mayank Ranjan... the Internet Explorer, not the deprecated one
 
-- 👋 Hi, I’m @itsMeBuddy
+- 🎯 I’m interested in <sup>14</sup>Si
 
-- 👀 I’m interested in <sup>14</sup>Si
+- 🌱 I’m currently **learning**.<!-- - 💞️ I’m looking to collaborate on  -->
 
-- 🌱 I’m currently learning Computer Science Engineering from KLE Technological University, Hubli<!-- - 💞️ I’m looking to collaborate on  -->
+- 🥱 ...and pursuing degree on **BE in Computer Science & Engineering** from KLE Technological University, KA '23
 
-- 📫 How to reach me **red.mayank.r@gmail.com**
+- 😕 ...and searching for just one relationship
 
+- 📫 How to reach me😂? -> **red.mayank.r@gmail.com**
+
+- ⚡ Fun fact ...**I do certify myself.**
 <!---
 itsMeBuddy/itsMeBuddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
