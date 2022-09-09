@@ -28,4 +28,4 @@ he/him
     <img src="https://komarev.com/ghpvc/?username=itsMeBuddy">
 </a>
 
-[![Mayank's github activity graph](https://activity-graph.herokuapp.com/graph?username=itsMeBuddy&theme=github)](https://github.com/itsMeBuddy/github-readme-activity-graph)
+[![Mayank's github activity graph](https://activity-graph.herokuapp.com/graph?username=itsMeBuddy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/itsMeBuddy/)
