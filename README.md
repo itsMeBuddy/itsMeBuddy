@@ -31,9 +31,9 @@
         <img title="" alt="" src="https://streak-stats.demolab.com?user=itsMeBuddy&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
     </a>
 </p>
-<p align="right">
+<p align="left">
     <a href="">
-        <img title="" alt="" src="https://github-readme-stats.vercel.app/api?username=itsMeBuddy&show_icons=true&theme=radical&bg_color=ffffff"/>
+        <img title="" alt="" src="https://github-readme-stats.vercel.app/api?username=itsMeBuddy&show_icons=true&theme=github_dark&hide_border=true"/>
     </a>
 </p>
 <p align="center">
