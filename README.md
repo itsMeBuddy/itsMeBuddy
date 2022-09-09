@@ -10,7 +10,7 @@
 
 - 🥱 ...and pursuing degree on **B.E.** in **Computer Science & Engineering** from _KLE Technological University_, KA '23
 
-- 😕 ...and searching for **just '1' relationship**
+- 😕 ...and searching for **just 'ONE' relationship**
 
 - 📮 How to reach me😂? -> **red.mayank.r@gmail.com**
 
