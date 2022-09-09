@@ -1,8 +1,10 @@
-<h1 align="center"> Hey <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/wave.gif" width="30px" height="30px" />, What's Up? </h1>
+<h1 align="center"> Hey <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/Handshake.gif" width="30px" height="30px" />, What's Up? </h1>
 
 # <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/Gif_.gif" width="40px" height="40px" /> Me ?
 
-- <a href="" <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/Handshake.gif"/><a> Hi, I’m Mayank Ranjan... the Internet Explorer, not the deprecated one
+<!-- - <a href="" <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/Handshake.gif"/><a> -->
+
+Hi, I’m Mayank Ranjan... the Internet Explorer, not the deprecated one
 
 - 📈 I’m interested in <sup><small>14</small></sup>Si
 
