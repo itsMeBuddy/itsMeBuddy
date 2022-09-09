@@ -1,5 +1,7 @@
 <h1 align="center"> Hey <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/wave.gif" width="30px" height="30px" />, What's Up? </h1>
 
+# Me
+
 - 👋 Hi, I’m Mayank Ranjan... the Internet Explorer, not the deprecated one
 
 - 📈 I’m interested in <sup>14</sup>Si
@@ -13,5 +15,7 @@
 - 📮 How to reach me😂? -> **red.mayank.r@gmail.com**
 
 - ⚡ Fun fact ...**I do certify myself.**
+
+he/him
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsMeBuddy&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000)](https://git.io/streak-stats)
