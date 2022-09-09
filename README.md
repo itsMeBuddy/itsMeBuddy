@@ -1,6 +1,6 @@
 <h1 align="center"> Hey <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/Handshake.gif" width=auto height="25px" />, What's Up? </h1>
 
-# <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/Gif_.gif" width="40px" height="40px" /> Me ?
+# <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/Gif_.gif" width="30px" height=auto /> Me ?
 
 <!-- - <a href="" <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/Handshake.gif"/><a> -->
 
@@ -10,9 +10,8 @@ Hi, I’m Mayank Ranjan... the Internet Explorer, not the deprecated one
 
 - 📚 I’m currently **learning**.
 
-- 🥱 ...and pursuing degree on **B.E.** in **Computer Science & Engineering** from _KLE Technological University_, KA '23
-
-- 😕 ...and searching for **just 'ONE' relationship**
+...and pursuing degree🥱 on **B.E.** in **Computer Science & Engineering** from _KLE Technological University_, KA '23
+...and searching😕 for **just 'ONE' relationship**
 
 - 📮 How to reach me😂? -> **red.mayank.r@gmail.com**
 
