@@ -26,28 +26,19 @@
 
 ## Views and Followers
 
-<p align="right">
-    <a href="">
-        <img title="" alt="" src="https://github-readme-stats.vercel.app/api?username=itsMeBuddy&show_icons=true&theme=radical"/>
-    </a>
-</p>
-
-<!--
-[![GitHub Streak](https://streak-stats.demolab.com?user=itsMeBuddy&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsMeBuddy&show_icons=true&theme=radical)
-
-[![Mayank's github activity graph](https://activity-graph.herokuapp.com/graph?username=itsMeBuddy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/itsMeBuddy/)
- -->
-
 <p align="center">
     <a href="">
         <img title="" alt="" src="https://streak-stats.demolab.com?user=itsMeBuddy&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
     </a>
 </p>
+<p align="right">
+    <a href="">
+        <img title="" alt="" src="https://github-readme-stats.vercel.app/api?username=itsMeBuddy&show_icons=true&theme=radical&bg_color=ffffff"/>
+    </a>
+</p>
 <p align="center">
     <a href="">
-        <img title="" alt="" src="https://activity-graph.herokuapp.com/graph?username=itsMeBuddy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/itsMeBuddy/"/>
+        <img title="" alt="" src="https://activity-graph.herokuapp.com/graph?username=itsMeBuddy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)]"/>
     </a>
 </p>
 
