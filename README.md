@@ -34,19 +34,10 @@
 
 ## Stargazers
 
-### <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers
-
-[![Stargazers repo roster for @waylonwalker/waylonwalker](https://reporoster.com/stars/itsMeBuddy/itsMeBuddy)](https://github.com/waylonwalker/itsMeBuddy/itsMeBuddy)
+[![Stargazers repo roster for @waylonwalker/waylonwalker](https://reporoster.com/stars/itsMeBuddy/itsMeBuddy)](https://github.com/itsMeBuddy/itsMeBuddy)
 
 <a href="https://github.com/itsMeBuddy/">
     <img src="https://komarev.com/ghpvc/?username=itsMeBuddy">
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsMeBuddy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsMeBuddy&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsMeBuddy&repo=convoychat" />
-</a>
