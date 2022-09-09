@@ -10,14 +10,15 @@
 
 <!-- - <a href="" <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/Handshake.gif"/><a> -->
 
-Hi, I’m Mayank Ranjan... the Internet Explorer, not the deprecated one
+### Hi, I’m Mayank Ranjan... the Internet Explorer, not the deprecated one
 
 - 📈 I’m interested in <sup><small>14</small></sup>Si
 
 - 📚 I’m currently **learning**.
 
-...and pursuing degree🥱 on **B.E.** in **Computer Science & Engineering** from _KLE Technological University_, KA '23
-...and searching😕 for **just 'ONE' relationship**
+- 🥱...and pursuing degree on **B.E.** in **Computer Science & Engineering** from _KLE Technological University_, KA '23
+
+- 👧...and searching for **just _'ONE'_ relationship**
 
 - 📮 How to reach me😂? -> **red.mayank.r@gmail.com**
 
@@ -47,7 +48,7 @@ Hi, I’m Mayank Ranjan... the Internet Explorer, not the deprecated one
         <img title="" alt="" src="https://streak-stats.demolab.com?user=itsMeBuddy&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
     </a>
 </p>
-<p align="left">
+<p align="center">
     <a href="">
         <img title="" alt="" src="https://github-readme-stats.vercel.app/api?username=itsMeBuddy&show_icons=true&theme=github_dark&hide_border=true"/>
     </a>
