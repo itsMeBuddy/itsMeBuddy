@@ -2,7 +2,7 @@
 
 # <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/Gif_.gif" width="40px" height="40px" /> Me ?
 
-- 👋 Hi, I’m Mayank Ranjan... the Internet Explorer, not the deprecated one
+- <a href="" <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/Handshake.gif"/><a> Hi, I’m Mayank Ranjan... the Internet Explorer, not the deprecated one
 
 - 📈 I’m interested in <sup><small>14</small></sup>Si
 
