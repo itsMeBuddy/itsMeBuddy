@@ -41,7 +41,7 @@
     <a href=""><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsMeBuddy&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsMeBuddy&theme=github_dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📈Git-Stats
 
@@ -50,9 +50,9 @@
         <img title="" alt="" src="https://streak-stats.demolab.com?user=itsMeBuddy&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
     </a>
 </p>
-<p align="center">
+<p align="left">
     <a href="">
-        <img title="" alt="" src="https://github-readme-stats.vercel.app/api?username=itsMeBuddy&show_icons=true&theme=github_dark&hide_border=true"/>
+        <img title="" alt="" src="https://github-readme-stats.vercel.app/api?username=itsMeBuddy&show_icons=true&theme=github_dark&hide_border=false"/>
     </a>
 </p>
 <p align="center">
