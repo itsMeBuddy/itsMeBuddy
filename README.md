@@ -1,6 +1,6 @@
 <p align="center">
     <a href="">
-        <img title="" alt="" src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/y.gif" width=auto height="200px"/>
+        <img title="" alt="" src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/y.gif" width=auto height="250px"/>
     </a>
 </p>
 
