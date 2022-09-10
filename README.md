@@ -47,7 +47,7 @@
 
 <p align="center">
     <a href="">
-        <img title="" alt="" src="https://streak-stats.demolab.com?user=itsMeBuddy&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+        <img title="" alt="" src="https://streak-stats.demolab.com?user=itsMeBuddy&theme=github-dark-blue&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>
     </a>
 </p>
 <p align="left">
@@ -57,7 +57,7 @@
 </p>
 <p align="center">
     <a href="">
-        <img title="" alt="" src="https://activity-graph.herokuapp.com/graph?username=itsMeBuddy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
+        <img title="" alt="" src="https://activity-graph.herokuapp.com/graph?username=itsMeBuddy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false"/>
     </a>
 </p>
 
