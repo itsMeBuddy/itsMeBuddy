@@ -10,7 +10,7 @@
 
 <!-- - <a href="" <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/Handshake.gif"/><a> -->
 
-<h2> Hi, I’m Mayank Ranjan... the Internet Explorer, not the deprecated one </h2>
+<h5> Hi, I’m Mayank Ranjan... the Internet Explorer, not the deprecated one </h5>
 
 - 📈 I’m interested in <sup><small>14</small></sup>Si
 
