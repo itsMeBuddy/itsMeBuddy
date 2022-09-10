@@ -41,7 +41,7 @@
     <a href=""><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsMeBuddy&show_icons=true&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsMeBuddy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📈Git-Stats
 
