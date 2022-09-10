@@ -10,7 +10,7 @@
 
 <!-- - <a href="" <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/Handshake.gif"/><a> -->
 
-<h3> Hi, I’m Mayank Ranjan... the Internet Explorer, not the deprecated one </h3>
+<h3> Hi, I’m Mayank Ranjan... the Internet Explorer, not the deprecated one! </h3>
 
 - 📈 I’m interested in <sup><small>14</small></sup>Si
 
@@ -41,9 +41,9 @@
     <a title="ANACONDA" href="https://www.anaconda.com/"><img src="https://img.icons8.com/fluency/48/000000/anaconda--v2.png"/></a>
     <a title="hp" href="https://www.hp.com/in-en/home.html"><img src="https://img.icons8.com/color/48/000000/hp.png"/></a>
     <a title="Windows 10" href="https://www.microsoft.com/en-in/software-download/windows10"><img src="https://img.icons8.com/color/48/000000/windows-10.png"/></a>
-    <a title="Linux Mint" href="https://img.icons8.com/color/48/000000/linux-mint.png"><img src="https://linuxmint.com/"/></a>
-    <!-- <a title="" href=""><img src=""/></a>
-    <a title="" href=""><img src=""/></a> -->
+    <a title="Linux Mint" href="https://linuxmint.com/"><img src="https://img.icons8.com/color/48/000000/linux-mint.png"/></a>
+    <a title="GitHub" href="https://github.com/"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
+    <!-- <a title="" href=""><img src=""/></a> -->
 
 </p>
 
