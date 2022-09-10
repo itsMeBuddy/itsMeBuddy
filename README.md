@@ -37,11 +37,13 @@
     <a title="vmware" href="https://www.vmware.com/in.html"><img src="https://img.icons8.com/fluency/48/000000/old-vmware-logo.png"/></a>
     <a title="OpenStack" href="https://www.openstack.org/"><img src="https://img.icons8.com/color/48/000000/openstack.png"/></a>
     <a title="vscode" href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio--v2.png"/></a>
-    <a title="jupyter" href="https://img.icons8.com/fluency/48/000000/jupyter.png"><img src="https://jupyter.org/"/></a>
+    <a title="jupyter" href="https://jupyter.org/"><img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/></a>
     <a title="ANACONDA" href="https://www.anaconda.com/"><img src="https://img.icons8.com/fluency/48/000000/anaconda--v2.png"/></a>
-    <a title="" href=""><img src=""/></a>
-    <a title="" href=""><img src=""/></a>
-    <a title="" href=""><img src=""/></a>
+    <a title="hp" href="https://www.hp.com/in-en/home.html"><img src="https://img.icons8.com/color/48/000000/hp.png"/></a>
+    <a title="Windows 10" href="https://www.microsoft.com/en-in/software-download/windows10"><img src="https://img.icons8.com/color/48/000000/windows-10.png"/></a>
+    <a title="Linux Mint" href="https://img.icons8.com/color/48/000000/linux-mint.png"><img src="https://linuxmint.com/"/></a>
+    <!-- <a title="" href=""><img src=""/></a>
+    <a title="" href=""><img src=""/></a> -->
 
 </p>
 
