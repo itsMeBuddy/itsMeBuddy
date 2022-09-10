@@ -1,6 +1,6 @@
 <p align="center">
     <a href="">
-        <img title="" alt="" src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/few.gif"/>
+        <img title="" alt="" src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/output-onlinegiftools_1.gif"/>
     </a>
 </p>
 
