@@ -30,9 +30,9 @@
 
 <p align="left">
     <a href=""><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
-    <a href=""><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
-    <a href=""><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
-    <a href=""><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
+    <a href=""><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
+    <a href=""><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+    <a href=""><img src="https://img.icons8.com/color/48/000000/openstack.png"/></a>
     <a href=""><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
     <a href=""><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
     <a href=""><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
@@ -53,13 +53,6 @@
         <img title="" alt="" src="https://github-readme-stats.vercel.app/api?username=itsMeBuddy&show_icons=true&theme=github_dark&hide_border=true"/>
     </a>
 </p>
-<br />
-<!-- <p align="left">
-    <a href="">
-        <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsMeBuddy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-    </a>
-</p> -->
-
 <p align="center">
     <a href="">
         <img title="" alt="" src="https://activity-graph.herokuapp.com/graph?username=itsMeBuddy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
