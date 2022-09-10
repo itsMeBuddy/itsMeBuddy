@@ -41,7 +41,7 @@
     <a href=""><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsMeBuddy&theme=github_dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsMeBuddy&theme=github_dark&hide_border=true&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📈Git-Stats
 
@@ -52,12 +52,12 @@
 </p>
 <p align="left">
     <a href="">
-        <img title="" alt="" src="https://github-readme-stats.vercel.app/api?username=itsMeBuddy&show_icons=true&theme=github_dark&hide_border=false"/>
+        <img title="" alt="" src="https://github-readme-stats.vercel.app/api?username=itsMeBuddy&show_icons=true&theme=github_dark&hide_border=true"/>
     </a>
 </p>
 <p align="center">
     <a href="">
-        <img title="" alt="" src="https://activity-graph.herokuapp.com/graph?username=itsMeBuddy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=false"/>
+        <img title="" alt="" src="https://activity-graph.herokuapp.com/graph?username=itsMeBuddy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
     </a>
 </p>
 
