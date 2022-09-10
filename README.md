@@ -4,7 +4,7 @@
     </a>
 </p>
 
-<h1 align="center"> Hey <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/wave.gif" width=auto height="25px" />, What's Up? <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/Handshake.gif" width=auto height="25px" /></h1>
+<h1 align="center"> Hey <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/wave.gif" width=auto height="25px" />, What's Up? <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/Handshake.gif" width=auto height="35px" /></h1>
 
 # <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/Gif_.gif" width="30px" height=auto /> Me ?
 
