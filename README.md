@@ -62,10 +62,10 @@
     <a href="">
         <img title="" alt="" src="https://github-readme-stats.vercel.app/api?username=itsMeBuddy&show_icons=true&theme=github_dark&hide_border=true"/>
     </a>
-    <a>
-        <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/tgs_converted/men.gif" width=auto height="100px" align="right">
-    </a>
 </p>
+<a>
+    <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/tgs_converted/men.gif" width=auto height="100px" align="right">
+</a>
 <p align="center">
     <a href="">
         <img title="" alt="" src="https://activity-graph.herokuapp.com/graph?username=itsMeBuddy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
