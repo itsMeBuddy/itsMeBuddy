@@ -46,7 +46,7 @@
     <a title="Linux Mint" href="https://linuxmint.com/"><img src="https://img.icons8.com/color/48/000000/linux-mint.png"/></a>
     <!-- <a title="" href=""><img src=""/></a>
     <!-- <a title="" href=""><img src=""/></a> -->
-    <a title="" href=""><img src=""/></a> -->
+    <!-- <a title="" href=""><img src=""/></a> --> -->
 
 </p>
 
