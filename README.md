@@ -1,12 +1,12 @@
 <p align="center">
     <a href="">
-        <img title="" alt="" src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/y.gif" width=auto height="250px"/>
+        <img title="" alt="" src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/y.gif" width=auto height="250px">
     </a>
 </p>
 
-<h1 align="center"> Hey <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/wave.gif" width=auto height="25px" />, What's Up? <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/Handshake.gif" width=auto height="35px" /></h1>
+<h1 align="center"> Hey <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/tgs_converted/wave.gif" width=auto height="25px" >, What's Up? <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/Handshake.gif" width=auto height="35px" /></h1>
 
-# <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/tgs_converted/kaalaChasma.gif" width="50px" height=auto /> Me ?
+# <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/tgs_converted/kaalaChasma.gif" width="50px" height=auto > Me ?
 
 <!-- - <a href="" <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/Handshake.gif"/><a> -->
 
@@ -18,7 +18,7 @@
 
 - 🥱...and pursuing degree on **B.E.** in **Computer Science & Engineering** from _KLE Technological University_, KA '23
 
-- 👧...and searching for **just _'ONE'_ relationship**
+- 👧...and searching for **just _'ONE'_ relationship** <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/tgs_converted/you.gif" wigth="20px" height=auto />
 
 - 📮 How to reach me😂? -> **red.mayank.r@gmail.com**
 
@@ -70,7 +70,7 @@
     </a>
 </p>
 
-# Stargazers
+# <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/tgs_converted/bulb.gif" width=auto height="10px"> Stargazers
 
 <a href="">
     <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/tgs_converted/men.gif" width=auto height="100px">
