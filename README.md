@@ -6,7 +6,7 @@
 
 <h1 align="center"> Hey <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/wave.gif" width=auto height="25px" />, What's Up? <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/Handshake.gif" width=auto height="35px" /></h1>
 
-# <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/tgs_converted/kaalaChasma.gif" width="30px" height=auto /> Me ?
+# <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/tgs_converted/kaalaChasma.gif" width="50px" height=auto /> Me ?
 
 <!-- - <a href="" <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/Handshake.gif"/><a> -->
 
@@ -26,7 +26,7 @@
 
 ♂ he/him
 
-## Languages, Tools & Technologies
+# <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/tgs_converted/lang.gif" width="50px" height=auto /> Languages, Tools & Technologies
 
 <p align="left">
     <a title="C++17" href="https://cplusplus.com/"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
