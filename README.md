@@ -58,14 +58,14 @@
         <img title="" alt="" src="https://streak-stats.demolab.com?user=itsMeBuddy&theme=github-dark-blue&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>
     </a>
 </p>
-<!-- <p> -->
-    <a href="" align="left">
+<p>
+    <a href="">
         <img title="" alt="" src="https://github-readme-stats.vercel.app/api?username=itsMeBuddy&show_icons=true&theme=github_dark&hide_border=true"/>
     </a>
-    <a  align="right">
-        <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/tgs_converted/men.gif" width=auto height="100px">
+    <a>
+        <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/tgs_converted/men.gif" width=auto height="100px" align="right">
     </a>
-<!-- </p> -->
+</p>
 <p align="center">
     <a href="">
         <img title="" alt="" src="https://activity-graph.herokuapp.com/graph?username=itsMeBuddy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
