@@ -10,7 +10,7 @@
 
 <!-- - <a href="" <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/Handshake.gif"/><a> -->
 
-<h3> Hi, I’m Mayank Ranjan ...the Internet Explorer, not the deprecated one! </h3>
+<h3> Hi, I’m Mayank Ranjan ...Internet Explorer, not the deprecated one! </h3>
 
 - 📈 I’m interested in <sup><small>14</small></sup>Si
 
@@ -61,6 +61,7 @@
 <p align="left">
     <a href="">
         <img title="" alt="" src="https://github-readme-stats.vercel.app/api?username=itsMeBuddy&show_icons=true&theme=github_dark&hide_border=true"/>
+        <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/tgs_converted/men.gif" width=auto height="100px">
     </a>
 </p>
 <p align="center">
