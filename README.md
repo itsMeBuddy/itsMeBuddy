@@ -74,10 +74,6 @@
 
 # <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/tgs_converted/bulb.gif" width=auto height="50px"> Stargazers
 
-<a href="">
-    <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/tgs_converted/men.gif" width=auto height="100px">
-</a>
-
 <a href="https://github.com/itsMeBuddy/">
     <img src="https://komarev.com/ghpvc/?username=itsMeBuddy">
 </a>
