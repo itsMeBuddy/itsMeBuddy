@@ -45,7 +45,7 @@
     <a title="Windows 10" href="https://www.microsoft.com/en-in/software-download/windows10"><img src="https://img.icons8.com/color/48/000000/windows-10.png"/></a>
     <a title="Linux Mint" href="https://linuxmint.com/"><img src="https://img.icons8.com/color/48/000000/linux-mint.png"/></a>
     <!-- <a title="" href=""><img src=""/></a>
-    <a title="" href=""><img src=""/></a>
+    <!-- <a title="" href=""><img src=""/></a> -->
     <a title="" href=""><img src=""/></a> -->
 
 </p>
