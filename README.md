@@ -53,7 +53,7 @@
 
 Note: _Top Language_ doesn't count towards proficiency in a particular language.
 
-# <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/tgs_converted/naDhin.gif" width=auto height="50px"> Git-Stats
+# <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/upDown.gif" width=auto height="50px"> Git-Stats
 
 <p align="center">
     <a href="">
@@ -79,3 +79,5 @@ Note: _Top Language_ doesn't count towards proficiency in a particular language.
 <a href="https://github.com/itsMeBuddy/">
     <img src="https://komarev.com/ghpvc/?username=itsMeBuddy">
 </a>
+
+<img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/tgs_converted/naDhin.gif" width=auto height="20px">
