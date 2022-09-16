@@ -12,9 +12,9 @@
 
 <h3> Hi, I’m Mayank Ranjan ...Internet Explorer, not the deprecated one! </h3>
 
-- 📈 I’m interested in <sup><small>14</small></sup>Si
+- 📈 I’m interested in <sup><small>14</small></sup>Si and love contributing towards open-source projects.
 
-- 📚 I’m currently **learning**.
+- 📚 I’m currently **learning** & later would contribute
 
 - 🥱...and pursuing degree on **B.E.** in **Computer Science & Engineering** from _KLE Technological University_, KA '23
 
