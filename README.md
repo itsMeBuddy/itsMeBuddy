@@ -4,9 +4,9 @@
     </a>
 </p>
 
-<h1 align="center"> Hey <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/tgs_converted/wave.gif" width=auto height="25px" >, What's Up? <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/Handshake.gif" width=auto height="35px" /></h1>
+<h1 align="center"> Hey <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/light_weight/wave.gif" width=auto height="25px" >, What's Up? <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/Handshake.gif" width=auto height="35px" /></h1>
 
-# <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/tgs_converted/kaalaChasma.gif" width="50px" height=auto > Me ?
+# <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/light_weight/kaalaChasma.gif" width="50px" height=auto > Me ?
 
 <!-- - <a href="" <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/Handshake.gif"/><a> -->
 
@@ -18,14 +18,14 @@
 
 - 🥱...and pursuing degree on **B.E.** in **Computer Science & Engineering** from _KLE Technological University_, KA '23
 
-- 👧...and searching for **just _'ONE'_ relationship** <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/tgs_converted/you.gif" width="20px" height=auto />
+- 👧...and searching for **just _'ONE'_ relationship** <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/light_weight/you.gif" width="20px" height=auto />
 - 📮 How to reach me😂? -> **red.mayank.r@gmail.com**
 
 - ⚡ Fun fact ...**I do certify myself.**
 
 ♂ he/him
 
-# <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/tgs_converted/lang.gif" width="50px" height=auto /> Languages, Tools & Technologies
+# <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/light_weight/lang.gif" width="50px" height=auto /> Languages, Tools & Technologies
 
 <p align="left">
     <a title="C++17" href="https://cplusplus.com/"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
@@ -65,7 +65,7 @@ Note: _Top Language_ doesn't count towards proficiency in a particular language.
         <img title="" alt="" src="https://github-readme-stats.vercel.app/api?username=itsMeBuddy&show_icons=true&theme=github_dark&hide_border=true"/>
     </a>
     <a>
-        <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/tgs_converted/men.gif" width=100px height="100px" align="center">
+        <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/light_weight/men.gif" width=100px height="100px" align="center">
     </a>
 </p>
 <p align="center">
@@ -74,9 +74,9 @@ Note: _Top Language_ doesn't count towards proficiency in a particular language.
     </a>
 </p>
 
-# <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/tgs_converted/bulb.gif" width=auto height="50px"> Stargazers
+# <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/light_weight/bulb.gif" width=auto height="50px"> Stargazers
 
 <a href="https://github.com/itsMeBuddy/">
-    <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/tgs_converted/naDhin.gif" width=auto height="20px">
+    <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/light_weight/naDhin.gif" width=auto height="20px">
     <img src="https://komarev.com/ghpvc/?username=itsMeBuddy">
 </a>
