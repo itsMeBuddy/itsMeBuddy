@@ -14,7 +14,7 @@
 
 - 📈 I’m interested in <sup><small>14</small></sup>Si and love contributing towards open-source projects.
 
-- 📚 I’m currently **learning** & later would contribute
+- 📚 I’m currently **learning** & the day has come when I will contribute.
 
 - 🥱...and pursuing degree on **B.E.** in **Computer Science & Engineering** from _KLE Technological University_, KA '23
 
