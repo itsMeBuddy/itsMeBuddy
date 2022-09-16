@@ -77,7 +77,6 @@ Note: _Top Language_ doesn't count towards proficiency in a particular language.
 # <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/tgs_converted/bulb.gif" width=auto height="50px"> Stargazers
 
 <a href="https://github.com/itsMeBuddy/">
+    <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/tgs_converted/naDhin.gif" width=auto height="20px">
     <img src="https://komarev.com/ghpvc/?username=itsMeBuddy">
 </a>
-
-<img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/tgs_converted/naDhin.gif" width=auto height="20px">
