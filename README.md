@@ -56,12 +56,12 @@ Note: _Top Language_ doesn't count towards proficiency in a particular language.
 # <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/upDown.gif" width=auto height="50px"> Git-Stats
 
 <p align="center">
-    <a href="">
+    <a href="https://streak-stats.demolab.com?user=itsMeBuddy&theme=github-dark-blue&hide_border=false&date_format=M%20j%5B%2C%20Y%5D">
         <img title="" alt="" src="https://streak-stats.demolab.com?user=itsMeBuddy&theme=github-dark-blue&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>
     </a>
 </p>
 <p>
-    <a href="">
+    <a href="https://github-readme-stats.vercel.app/api?username=itsMeBuddy&show_icons=true&theme=github_dark&hide_border=true">
         <img title="" alt="" src="https://github-readme-stats.vercel.app/api?username=itsMeBuddy&show_icons=true&theme=github_dark&hide_border=true"/>
     </a>
     <a>
@@ -69,7 +69,7 @@ Note: _Top Language_ doesn't count towards proficiency in a particular language.
     </a>
 </p>
 <p align="center">
-    <a href="">
+    <a href="https://activity-graph.herokuapp.com/graph?username=itsMeBuddy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true">
         <img title="" alt="" src="https://activity-graph.herokuapp.com/graph?username=itsMeBuddy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
     </a>
 </p>
@@ -77,6 +77,5 @@ Note: _Top Language_ doesn't count towards proficiency in a particular language.
 # <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/light_weight/bulb.gif" width=auto height="50px"> Stargazers
 
 <a href="https://github.com/itsMeBuddy/">
-    <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/light_weight/naDhin.gif" width=auto height="20px">
     <img src="https://komarev.com/ghpvc/?username=itsMeBuddy">
 </a>
