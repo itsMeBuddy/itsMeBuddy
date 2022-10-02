@@ -38,6 +38,8 @@
     <a title="vscode" href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio--v2.png"/></a>
     <a title="jupyter" href="https://jupyter.org/"><img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/></a>
     <a title="ANACONDA" href="https://www.anaconda.com/"><img src="https://img.icons8.com/fluency/48/000000/anaconda--v2.png"/></a>
+    <a title="TensorFlow" href="https://www.tensorflow.org/"><img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+    <a title="Colab" href="https://colab.research.google.com/"><img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/icons/colab.png"/> 
     <a title="Git" href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
     <a title="GitHub" href="https://github.com/"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
     <a title="hp" href="https://www.hp.com/in-en/home.html"><img src="https://img.icons8.com/color/48/000000/hp.png"/></a>
