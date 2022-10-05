@@ -77,7 +77,7 @@ Note: _Top Language_ doesn't count towards proficiency in a particular language.
 </p>
 
 
-<h2 align="left"><img src="https://img.icons8.com/fluency-systems-regular/48/000000/data-.png" width="20px"> Code... </h2>
+# <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/blast.gif" width=auto height="50px"> Code...
 
 
 <p align="left">
@@ -90,13 +90,6 @@ Note: _Top Language_ doesn't count towards proficiency in a particular language.
     <img width=45% src="https://cp-cards.herokuapp.com/?name=mayank_r&codeforces=m_ayankr&codechef=m_ayankr"/>
   </a>
 </p>
-
-<!-- <p align="right">
-  <a href="https://codeforces.com/profile/m_ayankr" target="_blank">
-    <img width=45% src="https://codeforces-stats-api.herokuapp.com/stats?username=m_ayankr&theme=1"/>
-  </a>
-</p> -->
-
 
 
 # <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/light_weight/bulb.gif" width=auto height="50px"> Stargazers
