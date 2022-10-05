@@ -76,6 +76,14 @@ Note: _Top Language_ doesn't count towards proficiency in a particular language.
     </a>
 </p>
 
+<!-- LeetCode Stats Card -->
+<h2 align="center"><img src="https://icons8.com/icon/9L16NypUzu38/level-up-your-coding-skills-and-quickly-land-a-job" width="20px"> LeetCode... </h2>
+<p align="center">
+  <a href="https://leetcode.com/red_mayankr/" target="_blank">
+    <img width=60% src="https://leetcode.card.workers.dev/red_mayankr?theme=default&font=&extension=activity"/>
+  </a>
+</p>
+
 # <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/light_weight/bulb.gif" width=auto height="50px"> Stargazers
 
 <a href="https://github.com/itsMeBuddy/">
