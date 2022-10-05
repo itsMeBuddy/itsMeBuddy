@@ -77,12 +77,21 @@ Note: _Top Language_ doesn't count towards proficiency in a particular language.
 </p>
 
 
-<h2 align="left"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="20px"> LeetCode... </h2>
-<p align="right">
+<h2 align="left"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="20px"> Code... </h2>
+
+
+<p align="left">
   <a href="https://leetcode.com/red_mayankr/" target="_blank">
-    <img width=30% src="https://leetcard.jacoblin.cool/red_mayankr?ext=heatmap"/>
+    <img width=45% src="https://leetcard.jacoblin.cool/red_mayankr?ext=heatmap"/>
   </a>
 </p>
+<p align="right">
+  <a href="https://codeforces.com/profile/m_ayankr" target="_blank">
+    <img width=45% src="https://codeforces-stats-api.herokuapp.com/stats?username=m_ayankr&theme=1"/>
+  </a>
+</p>
+
+
 
 # <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/light_weight/bulb.gif" width=auto height="50px"> Stargazers
 
