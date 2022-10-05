@@ -76,11 +76,11 @@ Note: _Top Language_ doesn't count towards proficiency in a particular language.
     </a>
 </p>
 
-<!-- LeetCode Stats Card -->
-<h2 align="center"><img src="https://icons8.com/icon/9L16NypUzu38/level-up-your-coding-skills-and-quickly-land-a-job" width="20px"> LeetCode... </h2>
-<p align="center">
+
+<h2 align="left"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="20px"> LeetCode... </h2>
+<p align="right">
   <a href="https://leetcode.com/red_mayankr/" target="_blank">
-    <img width=60% src="https://leetcode.card.workers.dev/red_mayankr?theme=default&font=&extension=activity"/>
+    <img width=100% src="https://leetcard.jacoblin.cool/red_mayankr?ext=heatmap"/>
   </a>
 </p>
 
