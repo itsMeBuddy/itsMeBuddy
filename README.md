@@ -77,7 +77,7 @@ Note: _Top Language_ doesn't count towards proficiency in a particular language.
 </p>
 
 
-<h2 align="left"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="20px"> Code... </h2>
+<h2 align="left"><img src="https://img.icons8.com/fluency-systems-regular/48/000000/data-.png" width="20px"> Code... </h2>
 
 
 <p align="left">
