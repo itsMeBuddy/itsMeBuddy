@@ -85,7 +85,7 @@ Note: _Top Language_ doesn't count towards proficiency in a particular language.
         <img width=45% src="https://leetcard.jacoblin.cool/red_mayankr?ext=heatmap"/>
     </a>
     <a href="https://www.codechef.com/users/m_ayankr" target="_blank">
-        <img width=45% src="https://cp-cards.herokuapp.com/?name=mayank_r&codeforces=m_ayankr&codechef=m_ayankr"/>
+        <img width=50% src="https://cp-cards.herokuapp.com/?name=mayank_r&codeforces=m_ayankr&codechef=m_ayankr"/>
     </a>
 </p>
 <!-- <p align="right">
