@@ -85,11 +85,19 @@ Note: _Top Language_ doesn't count towards proficiency in a particular language.
     <img width=45% src="https://leetcard.jacoblin.cool/red_mayankr?ext=heatmap"/>
   </a>
 </p>
-<p align="right">
+
+
+### My Codeforces Stats
+
+![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=m_ayankr&theme=2)
+
+Get your Codeforces Stats Card: [GitHub Readme Codeforces Stats](https://github.com/wweverma1/github-readme-codeforces-stats)
+
+<!-- <p align="right">
   <a href="https://codeforces.com/profile/m_ayankr" target="_blank">
     <img width=45% src="https://codeforces-stats-api.herokuapp.com/stats?username=m_ayankr&theme=1"/>
   </a>
-</p>
+</p> -->
 
 
 
