@@ -81,15 +81,18 @@ Note: _Top Language_ doesn't count towards proficiency in a particular language.
 
 
 <p align="left">
-  <a href="https://leetcode.com/red_mayankr/" target="_blank">
-    <img width=45% src="https://leetcard.jacoblin.cool/red_mayankr?ext=heatmap"/>
-  </a>
+    <a href="https://leetcode.com/red_mayankr/" target="_blank">
+        <img width=45% src="https://leetcard.jacoblin.cool/red_mayankr?ext=heatmap"/>
+    </a>
+    <a href="https://www.codechef.com/users/m_ayankr" target="_blank">
+        <img width=45% src="https://cp-cards.herokuapp.com/?name=mayank_r&codeforces=m_ayankr&codechef=m_ayankr"/>
+    </a>
 </p>
-<p align="right">
+<!-- <p align="right">
   <a href="https://www.codechef.com/users/m_ayankr" target="_blank">
     <img width=45% src="https://cp-cards.herokuapp.com/?name=mayank_r&codeforces=m_ayankr&codechef=m_ayankr"/>
   </a>
-</p>
+</p> -->
 
 
 # <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/light_weight/bulb.gif" width=auto height="50px"> Stargazers
