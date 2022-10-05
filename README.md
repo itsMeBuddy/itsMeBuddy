@@ -80,7 +80,7 @@ Note: _Top Language_ doesn't count towards proficiency in a particular language.
 <h2 align="left"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="20px"> LeetCode... </h2>
 <p align="right">
   <a href="https://leetcode.com/red_mayankr/" target="_blank">
-    <img width=100% src="https://leetcard.jacoblin.cool/red_mayankr?ext=heatmap"/>
+    <img width=30% src="https://leetcard.jacoblin.cool/red_mayankr?ext=heatmap"/>
   </a>
 </p>
 
