@@ -89,8 +89,14 @@ Note: _Top Language_ doesn't count towards proficiency in a particular language.
     </a>
 </p>
 
+
+
+
 # <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/light_weight/bulb.gif" width=auto height="50px"> Stargazers
 
 <a href="https://github.com/itsMeBuddy/">
     <img src="https://komarev.com/ghpvc/?username=itsMeBuddy">
 </a>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Google+Sans&pause=1000&width=435&lines=I+don't+drink+coffee+%E2%98%95...still+%F0%9F%AB%A3...will+update+soon%F0%9F%98%81)](https://git.io/typing-svg)
