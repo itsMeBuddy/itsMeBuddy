@@ -99,4 +99,4 @@ Note: _Top Language_ doesn't count towards proficiency in a particular language.
 </a>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Google+Sans&pause=1000&width=435&lines=I+don't+drink+coffee+%E2%98%95...still+%F0%9F%AB%A3...will+update+soon%F0%9F%98%81)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Google+Sans&pause=1000&width=400&lines=I+don't+drink+coffee+%E2%98%95...still+%F0%9F%AB%A3...will+update+soon%F0%9F%98%81)](https://git.io/typing-svg)
