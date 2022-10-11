@@ -92,7 +92,7 @@ Note: _Top Language_ doesn't count towards proficiency in a particular language.
 
 
 <!-- ... -->
-# <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/light_weight/bulb.gif" width=auto height="50px"> Social
+# <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/social.gif" width=auto height="50px"> Social
 <p align="left">
     <a title="Instagram"    href="https://www.instagram.com/m.ayank.r/">                    <img src="https://img.icons8.com/3d-fluency/48/000000/instagram-new.png"/></a>
     <a title="Facebook"     href="https://www.facebook.com/mayank.ranjan.96742/">           <img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
