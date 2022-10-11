@@ -100,7 +100,12 @@ Note: _Top Language_ doesn't count towards proficiency in a particular language.
     <a title="Discord" href="https://discord.com/users/687016247258513454"><img src="https://img.icons8.com/color/48/000000/discord-logo.png"/></a>
     <a title="Twitter" href="https://twitter.com/mayankranjan03"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>
     <a title="Telegram" href="https://t.me/aila_jaadu"><img src="https://img.icons8.com/color/48/000000/telegram-app.png"/></a>
-    <!-- <a title="" href=""><img src=""/></a> -->
+    <a title="Reddit" href="https://www.reddit.com/user/BillageAreaPupil"><img src=""/></a>
+    <a title="Snapchat" href="https://www.snapchat.com/add/m_ranjan21"><img src=""/></a>
+    <a title="" href=""><img src=""/></a>
+    <a title="" href=""><img src=""/></a>
+    <a title="" href=""><img src=""/></a>
+    <a title="" href=""><img src=""/></a>
 
 </p>
 
