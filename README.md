@@ -101,7 +101,7 @@ Note: _Top Language_ doesn't count towards proficiency in a particular language.
     <a title="Twitter"      href="https://twitter.com/mayankranjan03">              <img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>
     <a title="Telegram"     href="https://t.me/aila_jaadu">                         <img src="https://img.icons8.com/color/48/000000/telegram-app.png"/></a>
     <a title="Reddit"       href="https://www.reddit.com/user/BillageAreaPupil">    <img src="https://img.icons8.com/doodle/48/000000/reddit--v4.png"/></a>
-    <a title="Snapchat"     href="https://www.snapchat.com/add/m_ranjan21">         <img src="https://img.icons8.com/fluency/48/000000/snapchat.png"/></a>
+    <a title="Snapchat"     href="https://www.snapchat.com/add/m_ranjan21">         <img src="https://img.icons8.com/color/48/000000/snapchat-circled-logo.png"/></a>
     <!-- <a title=""             href="">                                                <img src=""/></a>
     <a title=""             href="">                                                <img src=""/></a>
     <a title=""             href="">                                                <img src=""/></a> -->
