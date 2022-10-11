@@ -91,6 +91,22 @@ Note: _Top Language_ doesn't count towards proficiency in a particular language.
 
 
 
+<!-- ... -->
+# <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/light_weight/bulb.gif" width=auto height="50px"> Social
+<p align="left">
+    <a title="Instagram" href="https://www.instagram.com/m.ayank.r/"><img src="https://img.icons8.com/3d-fluency/48/000000/instagram-new.png"/></a>
+    <a title="Facebook" href="https://www.facebook.com/mayank.ranjan.96742/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+    <a title="Twitch" href="https://www.twitch.tv/m_ayank_r"><img src="https://img.icons8.com/external-justicon-flat-justicon/48/000000/external-twitch-social-media-justicon-flat-justicon.png"/></a>
+    <a title="Discord" href="https://discord.com/users/687016247258513454"><img src="https://img.icons8.com/color/48/000000/discord-logo.png"/></a>
+    <a title="Twitter" href="https://twitter.com/mayankranjan03"><img src=""/></a>
+    <a title="Telegram" href="https://t.me/aila_jaadu"><img src=""/></a>
+    <a title="" href=""><img src=""/></a>
+
+</p>
+
+
+
+<!-- ... -->
 
 # <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/light_weight/bulb.gif" width=auto height="50px"> Stargazers
 
