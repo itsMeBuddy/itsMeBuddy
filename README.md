@@ -28,23 +28,23 @@
 # <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/light_weight/lang.gif" width="50px" height=auto /> Languages, Tools & Technologies
 
 <p align="left">
-    <a title="C++17" href="https://cplusplus.com/"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
-    <a title="Python" href="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
-    <a title="HTML" href="https://html.com/"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
-    <a title="CSS" href="https://css-tricks.com/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-    <!-- <a title="JavaScript" href="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a> -->
-    <a title="vmware" href="https://www.vmware.com/in.html"><img src="https://img.icons8.com/fluency/48/000000/old-vmware-logo.png"/></a>
-    <a title="OpenStack" href="https://www.openstack.org/"><img src="https://img.icons8.com/color/48/000000/openstack.png"/></a>
-    <a title="vscode" href="https://code.visualstudio.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio--v2.png"/></a>
-    <a title="jupyter" href="https://jupyter.org/"><img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/></a>
-    <a title="ANACONDA" href="https://www.anaconda.com/"><img src="https://img.icons8.com/fluency/48/000000/anaconda--v2.png"/></a>
-    <a title="TensorFlow" href="https://www.tensorflow.org/"><img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
-    <a title="Colab" href="https://colab.research.google.com/"><img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/icons/colab.png"/> 
-    <a title="Git" href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
-    <a title="GitHub" href="https://github.com/"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
-    <a title="hp" href="https://www.hp.com/in-en/home.html"><img src="https://img.icons8.com/color/48/000000/hp.png"/></a>
-    <a title="Windows 10" href="https://www.microsoft.com/en-in/software-download/windows10"><img src="https://img.icons8.com/color/48/000000/windows-10.png"/></a>
-    <a title="Linux Mint" href="https://linuxmint.com/"><img src="https://img.icons8.com/color/48/000000/linux-mint.png"/></a>
+    <a title="C++17"        href="https://cplusplus.com/">                                          <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
+    <a title="Python"       href="https://www.python.org/">                                         <img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
+    <a title="HTML"         href="https://html.com/">                                               <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
+    <a title="CSS"          href="https://css-tricks.com/">                                         <img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+    <!-- <a title="JavaScript"   href="https://www.javascript.com/">                                     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a> -->
+    <a title="vmware"       href="https://www.vmware.com/in.html">                                  <img src="https://img.icons8.com/fluency/48/000000/old-vmware-logo.png"/></a>
+    <a title="OpenStack"    href="https://www.openstack.org/">                                      <img src="https://img.icons8.com/color/48/000000/openstack.png"/></a>
+    <a title="vscode"       href="https://code.visualstudio.com/">                                  <img src="https://img.icons8.com/color/48/000000/visual-studio--v2.png"/></a>
+    <a title="jupyter"      href="https://jupyter.org/">                                            <img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/></a>
+    <a title="ANACONDA"     href="https://www.anaconda.com/">                                       <img src="https://img.icons8.com/fluency/48/000000/anaconda--v2.png"/></a>
+    <a title="TensorFlow"   href="https://www.tensorflow.org/">                                     <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+    <a title="Colab"        href="https://colab.research.google.com/">                              <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/icons/colab.png"/> 
+    <a title="Git"          href="https://git-scm.com/">                                            <img src="https://img.icons8.com/color/48/000000/git.png"/></a>
+    <a title="GitHub"       href="https://github.com/">                                             <img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
+    <a title="hp"           href="https://www.hp.com/in-en/home.html">                              <img src="https://img.icons8.com/color/48/000000/hp.png"/></a>
+    <a title="Windows 10"   href="https://www.microsoft.com/en-in/software-download/windows10">     <img src="https://img.icons8.com/color/48/000000/windows-10.png"/></a>
+    <a title="Linux Mint"   href="https://linuxmint.com/">                                          <img src="https://img.icons8.com/color/48/000000/linux-mint.png"/></a>
     <!-- <a title="" href=""><img src=""/></a> -->
     <!-- <a title="" href=""><img src=""/></a> -->
     <!-- <a title="" href=""><img src=""/></a> -->
@@ -92,19 +92,19 @@ Note: _Top Language_ doesn't count towards proficiency in a particular language.
 
 
 <!-- ... -->
-# <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/social.gif" width=auto height="75px"> Social
+# <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/social.gif" width=auto height="100px"> Social
 <p align="left">
     <a title="Instagram"    href="https://www.instagram.com/m.ayank.r/">                    <img src="https://img.icons8.com/3d-fluency/48/000000/instagram-new.png"/></a>
     <a title="Facebook"     href="https://www.facebook.com/mayank.ranjan.96742/">           <img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
-    <a title="Twitch"       href="https://www.twitch.tv/m_ayank_r">                         <img src="https://img.icons8.com/3d-fluency/48/000000/3d-fluency-twitch.png"/></a>
-    <a title="Discord"      href="https://discord.com/users/687016247258513454">            <img src="https://img.icons8.com/color/48/000000/discord-logo.png"/></a>
-    <a title="Twitter"      href="https://twitter.com/mayankranjan03">                      <img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>
+    <a title="WhatsApp"     href="https://wa.me/qr/Q37WYU3F6KBWL1">                         <img src="https://img.icons8.com/color/48/000000/whatsapp.png"/></a>
+    <a title="Snapchat"     href="https://www.snapchat.com/add/m_ranjan21">                 <img src="https://img.icons8.com/color/48/000000/snapchat-circled-logo.png"/></a>
     <a title="Telegram"     href="https://t.me/aila_jaadu">                                 <img src="https://img.icons8.com/color/48/000000/telegram-app.png"/></a>
     <a title="Reddit"       href="https://www.reddit.com/user/BillageAreaPupil">            <img src="https://img.icons8.com/doodle/48/000000/reddit--v4.png"/></a>
-    <a title="Snapchat"     href="https://www.snapchat.com/add/m_ranjan21">                 <img src="https://img.icons8.com/color/48/000000/snapchat-circled-logo.png"/></a>
+    <a title="Twitter"      href="https://twitter.com/mayankranjan03">                      <img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>
+    <a title="Twitch"       href="https://www.twitch.tv/m_ayank_r">                         <img src="https://img.icons8.com/3d-fluency/48/000000/3d-fluency-twitch.png"/></a>
+    <a title="Discord"      href="https://discord.com/users/687016247258513454">            <img src="https://img.icons8.com/color/48/000000/discord-logo.png"/></a>
     <a title="Steam"        href="https://steamcommunity.com/profiles/76561198936257880/">  <img src="https://img.icons8.com/fluency/48/000000/steam.png"/></a>
     <a title="LinkedIn"     href="https://www.linkedin.com/in/itsMeBuddy/">                 <img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-    <a title="WhatsApp"     href="https://wa.me/qr/Q37WYU3F6KBWL1">                         <img src="https://img.icons8.com/color/48/000000/whatsapp.png"/></a>
 </p>
 
 
