@@ -117,5 +117,10 @@ Note: _Top Language_ doesn't count towards proficiency in a particular language.
     <img src="https://komarev.com/ghpvc/?username=itsMeBuddy">
 </a>
 
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/itsMeBuddy/Code-Dump.svg)](https://starchart.cc/itsMeBuddy/Code-Dump)
+
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Google+Sans&size=15&pause=1000&width=435&lines=I+don't+drink+coffee+%E2%98%95)](https://git.io/typing-svg)
