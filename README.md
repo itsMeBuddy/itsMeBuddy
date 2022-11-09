@@ -62,7 +62,8 @@ Note: _Top Language_ doesn't count towards proficiency in a particular language.
         <img title="" alt="" src="https://streak-stats.demolab.com?user=itsMeBuddy&theme=github-dark-blue&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>
     </a>
 </p>
-<p>
+
+<p align="left">
     <a href="https://github-readme-stats.vercel.app/api?username=itsMeBuddy&show_icons=true&theme=github_dark&hide_border=true">
         <img title="" alt="" src="https://github-readme-stats.vercel.app/api?username=itsMeBuddy&show_icons=true&theme=github_dark&hide_border=true"/>
     </a>
