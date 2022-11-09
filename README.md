@@ -58,8 +58,8 @@ Note: _Top Language_ doesn't count towards proficiency in a particular language.
 # <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/gifs/upDown.gif" width=auto height="50px"> Git-Stats
 
 <p align="center">
-    <a href="https://streak-stats.demolab.com?user=itsMeBuddy&theme=github-dark-blue&hide_border=false&date_format=M%20j%5B%2C%20Y%5D">
-        <img title="" alt="" src="https://streak-stats.demolab.com?user=itsMeBuddy&theme=github-dark-blue&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>
+    <a href="https://streak-stats.demolab.com?user=itsMeBuddy&theme=github-dark-blue&hide_border=true">
+        <img title="" alt="" src="https://streak-stats.demolab.com?user=itsMeBuddy&theme=github-dark-blue&hide_border=true"/>
     </a>
 </p>
 
