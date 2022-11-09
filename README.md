@@ -67,13 +67,11 @@ Note: _Top Language_ doesn't count towards proficiency in a particular language.
     <a href="https://github-readme-stats.vercel.app/api?username=itsMeBuddy&show_icons=true&theme=github_dark&hide_border=true">
         <img title="" alt="" src="https://github-readme-stats.vercel.app/api?username=itsMeBuddy&show_icons=true&theme=github_dark&hide_border=true"/>
     </a>
-</p>
-
-<p>
     <a>
         <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/light_weight/men.gif" width=100px height="100px" align="center">
     </a>
 </p>
+
 <p align="center">
     <a href="https://activity-graph.herokuapp.com/graph?username=itsMeBuddy&bg_color=0D1117&color=529BED&line=529BED&point=FFFFFF&hide_border=true">
         <img title="" alt="" src="https://activity-graph.herokuapp.com/graph?username=itsMeBuddy&bg_color=0D1117&color=529BED&line=529BED&point=FFFFFF&hide_border=true"/>
