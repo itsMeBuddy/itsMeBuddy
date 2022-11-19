@@ -121,4 +121,4 @@ Note: _Top Language_ doesn't count towards proficiency in a particular language.
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=15&duration=3000&pause=1000&multiline=true&width=435&lines=don't+dring+coffee+%E2%98%95;...caffeine+fat+cut+karti+hai+yaar)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=15&duration=3000&pause=1000&multiline=true&width=435&lines=don't+drink+coffee+%E2%98%95;...caffeine+fat+cut+karti+hai+yaar)](https://git.io/typing-svg)
