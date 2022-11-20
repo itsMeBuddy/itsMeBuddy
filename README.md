@@ -30,8 +30,8 @@
 <p align="left">
     <a title="C++17"        href="https://cplusplus.com/">                                          <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
     <a title="Python"       href="https://www.python.org/">                                         <img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
-    <a title="HTML"         href="https://html.com/">                                               <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a>
-    <a title="CSS"          href="https://css-tricks.com/">                                         <img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+    <!-- <a title="HTML"         href="https://html.com/">                                               <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></a> -->
+    <!-- <a title="CSS"          href="https://css-tricks.com/">                                         <img src="https://img.icons8.com/color/48/000000/css3.png"/></a> -->
     <!-- <a title="JavaScript"   href="https://www.javascript.com/">                                     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a> -->
     <a title="vmware"       href="https://www.vmware.com/in.html">                                  <img src="https://img.icons8.com/fluency/48/000000/old-vmware-logo.png"/></a>
     <a title="OpenStack"    href="https://www.openstack.org/">                                      <img src="https://img.icons8.com/color/48/000000/openstack.png"/></a>
