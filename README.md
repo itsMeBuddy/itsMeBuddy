@@ -73,8 +73,8 @@ Note: _Top Language_ doesn't count towards proficiency in a particular language.
 </p>
 
 <p align="center">
-    <a href="https://activity-graph.herokuapp.com/graph?username=itsMeBuddy&bg_color=0D1117&color=529BED&line=529BED&point=FFFFFF&hide_border=true">
-        <img title="" alt="" src="https://activity-graph.herokuapp.com/graph?username=itsMeBuddy&bg_color=0D1117&color=529BED&line=529BED&point=FFFFFF&hide_border=true"/>
+    <a href="https://github-readme-activity-graph.cyclic.app/graph?username=itsMeBuddy&bg_color=0D1117&color=529BED&line=529BED&point=FFFFFF&hide_border=true">
+        <img title="" alt="" src="https://github-readme-activity-graph.cyclic.app/graph?username=itsMeBuddy&bg_color=0D1117&color=529BED&line=529BED&point=FFFFFF&hide_border=true"/>
     </a>
 </p>
 
