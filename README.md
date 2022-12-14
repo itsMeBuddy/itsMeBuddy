@@ -114,7 +114,7 @@ Note: _Top Language_ doesn't count towards proficiency in a particular language.
 <!-- ... -->
 
 # <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/light_weight/bulb.gif" width=auto height="50px"> Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername)](https://github.com/yourusername/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=itsMeBuddy)](https://github.com/itsMeBuddy/github-profile-trophy)
 
 <!-- ... -->
 
