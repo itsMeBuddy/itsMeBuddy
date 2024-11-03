@@ -18,7 +18,7 @@
 
 - 🥱...and pursuing degree on **B.E.** in **Computer Science & Engineering** from _KLE Technological University_, KA '23
 
-- 👧...and searching for **just _'ONE'_ relationship** <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/light_weight/you.gif" width="20px" height=auto />
+- 👧...and searching for <img src="https://github.com/itsMeBuddy/itsMeBuddy/blob/main/light_weight/you.gif" width="20px" height=auto />
 - 📮 How to reach me😂? -> **red.mayank.r@gmail.com**
 
 - ⚡ Fun fact ...**I do certify myself.**
